@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/band/static/css/main.4e677936.css",
-    "main.js": "/band/static/js/main.86e63d74.js",
+    "main.css": "/band/static/css/main.04bcab29.css",
+    "main.js": "/band/static/js/main.4dc746f0.js",
     "static/js/787.0c9ff91a.chunk.js": "/band/static/js/787.0c9ff91a.chunk.js",
     "static/media/new_friends.png": "/band/static/media/new_friends.fd75a5540784bcea75a7.png",
-    "static/media/what_is.svg": "/band/static/media/what_is.4ec57c4405560aff118f1c8c7620e157.svg",
+    "static/media/what_is.png": "/band/static/media/what_is.eb313c13c4a0ad586f0f.png",
+    "static/media/desire.png": "/band/static/media/desire.7b6ec29cc50559574b00.png",
     "static/media/rabbit.svg": "/band/static/media/rabbit.558053840602dccc61096037c0642b02.svg",
     "static/media/heart.svg": "/band/static/media/heart.db3b9812833502950003837735e2aa57.svg",
-    "static/media/desire.svg": "/band/static/media/desire.5199260c131f56dfe9c8c851cc5d239d.svg",
     "static/media/hot_issue.png": "/band/static/media/hot_issue.44c002cf79cb799bdd35.png",
     "static/media/comet.svg": "/band/static/media/comet.22a781a120fa153c11b7be225c7bde0a.svg",
     "static/media/folder.svg": "/band/static/media/folder.15e5a65d809ce4ba0476a39b7410cdcb.svg",
     "static/media/computer.svg": "/band/static/media/computer.53dcdde50b0ecdb8d0a62b66b28170ce.svg",
     "static/media/background.png": "/band/static/media/background.80640d53bbb539d9dce7.png",
-    "static/media/who.svg": "/band/static/media/who.66df8ec10d9f70ddce9cc56046ad027d.svg",
+    "static/media/who.png": "/band/static/media/who.73fee07f614e86456e1f.png",
     "static/media/press_start.svg": "/band/static/media/press_start.948c25fd5e5c3536f63994b95a0e23cc.svg",
     "static/media/instagram.svg": "/band/static/media/instagram.482c89c138ee1cad2e4fe655836bfae1.svg",
     "index.html": "/band/index.html",
     "static/media/back.svg": "/band/static/media/back.7e124f87546b71577b869923a9541b5c.svg",
-    "main.4e677936.css.map": "/band/static/css/main.4e677936.css.map",
-    "main.86e63d74.js.map": "/band/static/js/main.86e63d74.js.map",
+    "main.04bcab29.css.map": "/band/static/css/main.04bcab29.css.map",
+    "main.4dc746f0.js.map": "/band/static/js/main.4dc746f0.js.map",
     "787.0c9ff91a.chunk.js.map": "/band/static/js/787.0c9ff91a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e677936.css",
-    "static/js/main.86e63d74.js"
+    "static/css/main.04bcab29.css",
+    "static/js/main.4dc746f0.js"
   ]
 }
