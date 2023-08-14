@@ -1,5 +1,6 @@
 import './Desire.css';
 import back from "../images/back.svg";
+import desire from "../images/desire.svg";
 import { useNavigate } from "react-router-dom";
 
 function Desire() {
@@ -8,6 +9,7 @@ function Desire() {
     return (
         <div className="desire-container">
             <img src={back} className="back" onClick={() => navigate(-1)}/>
+            <img src={desire} className="desire"/>
         </div>
     )
 };

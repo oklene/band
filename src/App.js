@@ -5,11 +5,11 @@ import HotIssue from './pages/HotIssue';
 import Desire from './pages/Desire';
 import WhatIs from './pages/WhatIs';
 import Who from './pages/Who';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter basename="/">
       <div className="container">
         <Routes>
           <Route path="/" element={<Home />} />
@@ -20,7 +20,7 @@ function App() {
           <Route path="/who" element={<Who />} />
         </Routes>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

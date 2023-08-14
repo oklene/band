@@ -10,19 +10,19 @@ import instagram from "../images/instagram.svg";
 function Home() {
     return (
         <div className="home-container">
-            <a href="/hot-issue">
+            <a href="#hot-issue">
                 <img src={heart} className="heart"/>
             </a>
-            <a href="new-friends">
+            <a href="#new-friends">
                 <img src={comet} className="comet"/>
             </a>
-            <a href="desire">
+            <a href="#desire">
                 <img src={computer} className="computer"/>
             </a>
-            <a href="what-is">
+            <a href="#what-is">
                 <img src={folder} className="folder"/>
             </a>
-            <a href="who">
+            <a href="#who">
                 <img src={rabbit} className="rabbit"/>
             </a>
             <a href="https://moaform.com/q/lelB1v" target="_blank">
