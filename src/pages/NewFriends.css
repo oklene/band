@@ -1,0 +1,19 @@
+.new-friends-container {
+    background-color: #000000;
+    background-image: url("../images/background.png");
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.new-friends {
+    position: absolute;
+    height: 250vmin;
+    top: 10%;
+    left: 5%;
+}
+
+.back {
+    margin: 15px;
+    height: 5vmin;
+    cursor: pointer;
+}

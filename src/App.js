@@ -1,37 +1,26 @@
-import heart from './image/heart.svg';
-import comet from './image/comet.svg';
-import computer from './image/computer.svg';
-import folder from './image/folder.svg';
-import rabbit from './image/rabbit.svg';
-import pressStart from './image/press_start.svg';
-import instagram from './image/instagram.svg';
 import './App.css';
+import Home from './pages/Home';
+import NewFriends from './pages/NewFriends';
+import HotIssue from './pages/HotIssue';
+import Desire from './pages/Desire';
+import WhatIs from './pages/WhatIs';
+import Who from './pages/Who';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-    <div className="container">
-      <a href="https://reactjs.org">
-        <img src={heart} className='heart'/>
-      </a>
-      <a href="https://reactjs.org">
-        <img src={comet} className='comet'/>
-      </a>
-      <a href="https://reactjs.org">
-        <img src={computer} className='computer'/>
-      </a>
-      <a href="https://reactjs.org">
-        <img src={folder} className='folder'/>
-      </a>
-      <a href="https://reactjs.org">
-        <img src={rabbit} className='rabbit'/>
-      </a>
-      <a href="https://reactjs.org">
-        <img src={pressStart} className='press-start'/>
-      </a>
-      <a href="https://reactjs.org">
-        <img src={instagram} className='instagram'/>
-      </a>
-    </div>
+    <BrowserRouter>
+      <div className="container">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/new-friends" element={<NewFriends />} />
+          <Route path="/hot-issue" element={<HotIssue />} />
+          <Route path="/desire" element={<Desire />} />
+          <Route path="/what-is" element={<WhatIs />} />
+          <Route path="/who" element={<Who />} />
+        </Routes>
+      </div>
+    </BrowserRouter>
   );
 }
 

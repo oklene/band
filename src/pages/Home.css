@@ -1,0 +1,45 @@
+
+.heart, .comet, .computer, .folder, .rabbit {
+  z-index: 10;
+  position: absolute;
+  height: 25vmin;
+}
+
+.heart {
+  top: 10%;
+  left: 10%;
+}
+
+.comet {
+  left: 55%;
+  height: 35vmin;
+}
+
+.computer {
+  top: 55%;
+  left: 60%;
+}
+
+.folder {
+  top: 40%;
+  left: 35%;
+}
+
+.rabbit {
+  top: 60%;
+}
+
+.press-start {
+  z-index: 11;
+  position: absolute;
+  height: 12vmin;
+  top: 80%;
+  left: 17%;
+}
+
+.instagram {
+  height: 3vmin;
+  position: absolute;
+  top: 95%;
+  left: 40%;
+}

@@ -1,0 +1,12 @@
+.hot-issue {
+    position: absolute;
+    height: 30vmin;
+    top: 40%;
+    left: 28%;
+}
+
+.back {
+    margin: 15px;
+    height: 5vmin;
+    cursor: pointer;
+}

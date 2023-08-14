@@ -1,0 +1,12 @@
+.who {
+    position: absolute;
+    height: 60vmin;
+    top: 15%;
+    left: 10%;
+}
+
+.back {
+    margin: 15px;
+    height: 5vmin;
+    cursor: pointer;
+}
