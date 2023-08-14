@@ -11,8 +11,6 @@ function App() {
       >
         <img src={logo} className='logo'/>
       </a>
-        {/* <img src={logo} className="first-heart"/> */}
-        {/* <img src={logo} className="second-heart"/> */}
     </div>
   );
 }
