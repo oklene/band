@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="Main">
+    <div className="container">
       <a
         className="link"
         href="https://reactjs.org"
