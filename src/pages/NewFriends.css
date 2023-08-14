@@ -7,10 +7,10 @@
 
 .new-friends {
     position: absolute;
-    height: 250vmin;
+    height: 300vmin;
     top: 10%;
     left: 10%;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
 }
 
 .back {

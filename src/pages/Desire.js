@@ -1,6 +1,6 @@
 import './Desire.css';
 import back from "../images/back.svg";
-import desire from "../images/desire.svg";
+import desire from "../images/desire.png";
 import { useNavigate } from "react-router-dom";
 
 function Desire() {

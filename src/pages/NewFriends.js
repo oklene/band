@@ -1,6 +1,6 @@
 import './NewFriends.css';
 import back from "../images/back.svg";
-import newFriends from "../images/new_friends.svg";
+import newFriends from "../images/new_friends.png";
 import { useNavigate } from "react-router-dom";
 
 function NewFriends() {

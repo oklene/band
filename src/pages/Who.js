@@ -1,6 +1,6 @@
 import './Who.css';
 import back from "../images/back.svg";
-import who from "../images/who.svg";
+import who from "../images/who.png";
 import { useNavigate } from "react-router-dom";
 
 function Who() {

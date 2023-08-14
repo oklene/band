@@ -1,6 +1,6 @@
 import './WhatIs.css';
 import back from "../images/back.svg";
-import whatIs from "../images/what_is.svg";
+import whatIs from "../images/what_is.png";
 import { useNavigate } from "react-router-dom";
 
 function WhatIs() {
